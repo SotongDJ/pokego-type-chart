@@ -1,0 +1,1 @@
+# pokego-type-chart
