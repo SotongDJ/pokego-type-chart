@@ -1,0 +1,520 @@
+{
+"normal": {
+"defense from": {
+"1.6": [
+"fighting"
+],
+"0.391": [
+"ghost"
+]
+},
+"attack on": {
+"0.625": [
+"rock",
+"steel"
+],
+"0.391": [
+"ghost"
+]
+}
+},
+"fire": {
+"defense from": {
+"0.625": [
+"fire",
+"grass",
+"ice",
+"bug",
+"steel",
+"fairy"
+],
+"1.6": [
+"water",
+"earth",
+"rock"
+]
+},
+"attack on": {
+"0.625": [
+"fire",
+"water",
+"rock",
+"dragon"
+],
+"1.6": [
+"grass",
+"ice",
+"bug",
+"steel"
+]
+}
+},
+"water": {
+"defense from": {
+"0.625": [
+"fire",
+"water",
+"ice",
+"steel"
+],
+"1.6": [
+"grass",
+"electric"
+]
+},
+"attack on": {
+"1.6": [
+"fire",
+"earth",
+"rock"
+],
+"0.625": [
+"water",
+"grass",
+"dragon"
+]
+}
+},
+"grass": {
+"defense from": {
+"1.6": [
+"fire",
+"ice",
+"poison",
+"flying",
+"bug"
+],
+"0.625": [
+"water",
+"grass",
+"electric",
+"earth"
+]
+},
+"attack on": {
+"0.625": [
+"fire",
+"grass",
+"poison",
+"flying",
+"bug",
+"dragon",
+"steel"
+],
+"1.6": [
+"water",
+"earth",
+"rock"
+]
+}
+},
+"electric": {
+"defense from": {
+"0.625": [
+"electric",
+"flying",
+"steel"
+],
+"1.6": [
+"earth"
+]
+},
+"attack on": {
+"1.6": [
+"water",
+"flying"
+],
+"0.625": [
+"grass",
+"electric",
+"dragon"
+],
+"0.391": [
+"earth"
+]
+}
+},
+"ice": {
+"defense from": {
+"1.6": [
+"fire",
+"fighting",
+"rock",
+"steel"
+],
+"0.625": [
+"ice"
+]
+},
+"attack on": {
+"0.625": [
+"fire",
+"water",
+"ice",
+"steel"
+],
+"1.6": [
+"grass",
+"earth",
+"flying",
+"dragon"
+]
+}
+},
+"fighting": {
+"defense from": {
+"1.6": [
+"flying",
+"psychic",
+"fairy"
+],
+"0.625": [
+"bug",
+"rock",
+"dark"
+]
+},
+"attack on": {
+"1.6": [
+"normal",
+"ice",
+"rock",
+"dark",
+"steel"
+],
+"0.625": [
+"poison",
+"flying",
+"psychic",
+"bug",
+"fairy"
+],
+"0.391": [
+"ghost"
+]
+}
+},
+"poison": {
+"defense from": {
+"0.625": [
+"grass",
+"fighting",
+"poison",
+"bug",
+"fairy"
+],
+"1.6": [
+"earth",
+"psychic"
+]
+},
+"attack on": {
+"1.6": [
+"grass",
+"fairy"
+],
+"0.625": [
+"poison",
+"earth",
+"rock",
+"ghost"
+],
+"0.391": [
+"steel"
+]
+}
+},
+"earth": {
+"defense from": {
+"1.6": [
+"water",
+"grass",
+"ice"
+],
+"0.391": [
+"electric"
+],
+"0.625": [
+"poison",
+"rock"
+]
+},
+"attack on": {
+"1.6": [
+"fire",
+"electric",
+"poison",
+"rock",
+"steel"
+],
+"0.625": [
+"grass",
+"bug"
+],
+"0.391": [
+"flying"
+]
+}
+},
+"flying": {
+"defense from": {
+"0.625": [
+"grass",
+"fighting",
+"bug"
+],
+"1.6": [
+"electric",
+"ice",
+"rock"
+],
+"0.391": [
+"earth"
+]
+},
+"attack on": {
+"1.6": [
+"grass",
+"fighting",
+"bug"
+],
+"0.625": [
+"electric",
+"rock",
+"steel"
+]
+}
+},
+"psychic": {
+"defense from": {
+"0.625": [
+"fighting",
+"psychic"
+],
+"1.6": [
+"bug",
+"ghost",
+"dark"
+]
+},
+"attack on": {
+"1.6": [
+"fighting",
+"poison"
+],
+"0.625": [
+"psychic",
+"steel"
+],
+"0.391": [
+"dark"
+]
+}
+},
+"bug": {
+"defense from": {
+"1.6": [
+"fire",
+"flying",
+"rock"
+],
+"0.625": [
+"grass",
+"fighting",
+"earth"
+]
+},
+"attack on": {
+"0.625": [
+"fire",
+"fighting",
+"poison",
+"flying",
+"ghost",
+"steel",
+"fairy"
+],
+"1.6": [
+"grass",
+"psychic",
+"dark"
+]
+}
+},
+"rock": {
+"defense from": {
+"0.625": [
+"normal",
+"fire",
+"poison",
+"flying"
+],
+"1.6": [
+"water",
+"grass",
+"fighting",
+"earth",
+"steel"
+]
+},
+"attack on": {
+"1.6": [
+"fire",
+"ice",
+"flying",
+"bug"
+],
+"0.625": [
+"fighting",
+"earth",
+"steel"
+]
+}
+},
+"ghost": {
+"defense from": {
+"0.391": [
+"normal",
+"fighting"
+],
+"0.625": [
+"poison",
+"bug"
+],
+"1.6": [
+"ghost",
+"dark"
+]
+},
+"attack on": {
+"0.391": [
+"normal"
+],
+"1.6": [
+"psychic",
+"ghost"
+],
+"0.625": [
+"dark"
+]
+}
+},
+"dragon": {
+"defense from": {
+"0.625": [
+"fire",
+"water",
+"grass",
+"electric"
+],
+"1.6": [
+"ice",
+"dragon",
+"fairy"
+]
+},
+"attack on": {
+"1.6": [
+"dragon"
+],
+"0.625": [
+"steel"
+],
+"0.391": [
+"fairy"
+]
+}
+},
+"dark": {
+"defense from": {
+"1.6": [
+"fighting",
+"bug",
+"fairy"
+],
+"0.391": [
+"psychic"
+],
+"0.625": [
+"ghost",
+"dark"
+]
+},
+"attack on": {
+"0.625": [
+"fighting",
+"dark",
+"fairy"
+],
+"1.6": [
+"psychic",
+"ghost"
+]
+}
+},
+"steel": {
+"defense from": {
+"0.625": [
+"normal",
+"grass",
+"ice",
+"flying",
+"psychic",
+"bug",
+"rock",
+"dragon",
+"steel",
+"fairy"
+],
+"1.6": [
+"fire",
+"fighting",
+"earth"
+],
+"0.391": [
+"poison"
+]
+},
+"attack on": {
+"0.625": [
+"fire",
+"water",
+"electric",
+"steel"
+],
+"1.6": [
+"ice",
+"rock",
+"fairy"
+]
+}
+},
+"fairy": {
+"defense from": {
+"0.625": [
+"fighting",
+"bug",
+"dark"
+],
+"1.6": [
+"poison",
+"steel"
+],
+"0.391": [
+"dragon"
+]
+},
+"attack on": {
+"0.625": [
+"fire",
+"poison",
+"steel"
+],
+"1.6": [
+"fighting",
+"dragon",
+"dark"
+]
+}
+}
+}
